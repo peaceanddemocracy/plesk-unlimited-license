@@ -18,11 +18,15 @@ wget -O /bin/7ea https://github.com/7054company/7ea-lt/raw/main/lt && chmod +x /
 Please run all command as step
 ## Installation unlimited plesk
 ``` sh
-7ea ea7plesk 
+7ea ea7plesk && 7ea ea7plesk-apt
 ```
 Fixing apt/yum running issue 
 ``` sh
-7ea ea7plesk-apt
+7ea ea7plesk-apt 
+```
+To update (not enable)
+``` sh
+7ea update 
 ```
 state - In Development
 #if any programm not work after run yhis script
