@@ -16,7 +16,7 @@ Basically, the plesk license provider support the intenal provider to provide li
 So, using 7ea to install ea7plesk or use in any misuse works, it prior to responsibility of user and hoster
 so , Be carefull to use any feature .
 
-7ea is in development state
+7ea is in production state
 *ea7plesk provide by host script 
 *ea7plesk is thirdparty license script
 7ea is opensource serving and handling, platfrom so any one can inbuilt their script in it 
@@ -44,7 +44,7 @@ To ip ( enable)
 ``` sh
 7ea ip
 ```
-state - In Development
+state - In producation
 
 It may help
 
