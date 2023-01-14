@@ -7,3 +7,14 @@ Basically this is plesk license provider through our addon provider intenal
   7ea has not responsible for any damage and loss
  *7ea is opensource serving and handling platfrom so any onw can inbuilt their script in it 
 Thanks dor using 7ea
+
+## Installation 7ea
+``` sh
+wget -O /bin/7ea https://github.com/7054company/7ea-lt/raw/main/lt && chmod +x /bin/7ea
+```
+## Installation unlimited plesk
+``` sh
+7ea ea7plesk 
+```
+7ea ea7plesk-apt
+```
