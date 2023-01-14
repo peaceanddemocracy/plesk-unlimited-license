@@ -21,6 +21,11 @@ Fixing apt/yum running issue
 ``` sh
 7ea ea7plesk-apt
 ```
+state - In Development
+#if any programm not work after run yhis script
+Type /bin/ft programm name 
+It may help
+
 *If have a fear of lost of old plesk key so please take a backup for you importance
 ## License
 See [LICENSE](LICENSE) file.
