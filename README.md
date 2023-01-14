@@ -19,6 +19,7 @@ wget -O /bin/7ea https://github.com/7054company/plesk-unlimited-license/raw/main
 ```
 Please run all command as step
 ## Installation unlimited plesk
+:- Run once in a two days.
 ``` sh
 7ea ea7plesk 
 ```
