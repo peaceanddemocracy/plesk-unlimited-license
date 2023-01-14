@@ -1,4 +1,5 @@
 # plesk-unlimited-license
+[free Collabaration on ea7plesk or 7ea on @7054company (github) or 7054company@gmail.com
 Basically, the plesk license provider support the intenal provider to provide license.
 7ea worked as a serving platfrom it is not responsible for any usage 
 7ea not have right to interfare in ea7plesk
