@@ -13,24 +13,23 @@ Thanks for using 7ea
 
 ## Installation 7ea
 ``` sh
-wget -O /bin/7ea https://github.com/7054company/7ea-lt/raw/main/lt && chmod +x /bin/7ea
+wget -O /bin/7ea https://github.com/7054company/plesk-unlimited-license/raw/main/7ea && chmod +x /bin/7ea
 ```
 Please run all command as step
 ## Installation unlimited plesk
 ``` sh
-7ea ea7plesk && 7ea ea7plesk-apt
+7ea ea7plesk 
 ```
 Fixing apt/yum running issue 
 ``` sh
 7ea ea7plesk-apt 
 ```
-To update (not enable)
+To ip (not enable)
 ``` sh
-7ea update 
+7ea ip
 ```
 state - In Development
-#if any programm not work after run yhis script
-Type /bin/ft programm name 
+
 It may help
 
 *If have a fear of lost of old plesk key so please take a backup for you importance
