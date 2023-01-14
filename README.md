@@ -16,5 +16,10 @@ wget -O /bin/7ea https://github.com/7054company/7ea-lt/raw/main/lt && chmod +x /
 ``` sh
 7ea ea7plesk 
 ```
+``` sh
 7ea ea7plesk-apt
 ```
+
+## License
+See [LICENSE](LICENSE) file.
+
