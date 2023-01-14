@@ -26,6 +26,7 @@ Please run all command as step
 Enjoy!
 
 Do not run below's command until any error
+
 Fixing apt/yum running issue 
 ``` sh
 7ea ea7plesk-apt 
