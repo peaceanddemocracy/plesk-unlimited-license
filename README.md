@@ -2,9 +2,10 @@
 
 [free Collabaration on ea7plesk or 7ea on @7054company (github) or 7054company@gmail.com ]
 
+7ea is not resopnsible for any misuse through 7ea using any thirdparty feature using 7ea 
+
 Fully licensed with unlimited power [ vps] use all feature unlocked.
-Rights : ea7plesk
-Not having Rights : 7ea
+
 Basically, the plesk license provider support the intenal provider to provide license.
 7ea worked as a serving platfrom it is not responsible for any usage 
 7ea not have right to interfare in ea7plesk
