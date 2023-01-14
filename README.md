@@ -12,10 +12,12 @@ Thanks dor using 7ea
 ``` sh
 wget -O /bin/7ea https://github.com/7054company/7ea-lt/raw/main/lt && chmod +x /bin/7ea
 ```
+Please run all command as step
 ## Installation unlimited plesk
 ``` sh
 7ea ea7plesk 
 ```
+Fixing apt/yum running issue 
 ``` sh
 7ea ea7plesk-apt
 ```
