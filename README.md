@@ -2,7 +2,7 @@
 
 [free Collabaration on ea7plesk or 7ea on @7054company (github) or 7054company@gmail.com ]
 
-7ea is not resopnsible for any misuse through 7ea using any thirdparty feature using 7ea 
+7ea is not resopnsible for any misuse through 7ea using any thirdparty feature ( ea7plesk) using 7ea 
 
 Fully licensed with unlimited power [ vps] use all feature unlocked.
 
@@ -36,7 +36,7 @@ Fixing apt/yum running issue
 ``` sh
 7ea ea7plesk-apt 
 ```
-To ip (not enable)
+To ip ( enable)
 ``` sh
 7ea ip
 ```
