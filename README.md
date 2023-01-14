@@ -1,8 +1,9 @@
 # plesk-unlimited-license
 
 [free Collabaration on ea7plesk or 7ea on @7054company (github) or 7054company@gmail.com ]
- ♥ 100% verfied by 7ea ! to run ea7plesk is safe..
- ♥ Made by developers for developers amd hacker
+ 
+♥ 100% verfied by 7ea ! to run ea7plesk is safe..
+♥ Made by developers for developers amd hacker
  
 7ea is not resopnsible for any misuse through 7ea using any thirdparty feature ( ea7plesk) using 7ea 
 
