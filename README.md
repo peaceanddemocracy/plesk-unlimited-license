@@ -2,13 +2,7 @@
 
 [free Collaboration on ea7plesk or 7ea on @7054company (GitHub) or 7054company@gmail.com ]
 
-#plesk 
-
-#key
-
- #license 
-
-#Plesk free license key
+#plesk   #key #license #Plesk free license key
 
 ♥ 100% verfied by 7ea ! to run ea7plesk is safe..
 
