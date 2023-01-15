@@ -4,21 +4,19 @@
  
 ♥ 100% verfied by 7ea ! to run ea7plesk is safe..
 
-♥ Made by developers for developers amd hacker
+♥ Made by developers for developers and hacker
  
-7ea is not resopnsible for any misuse through 7ea using any thirdparty feature ( ea7plesk) using 7ea 
+7ea is not resopnsible for any misuse through 7ea using any thirdparty feature ( ea7plesk) .
 
 Fully licensed with unlimited power [ vps] use all feature unlocked.
 
 Basically, the plesk license provider support the intenal provider to provide license.
-7ea worked as a serving platfrom it is not responsible for any usage 
-7ea not have right to interfare in ea7plesk
+7ea worked as a serving platfrom it is not responsible for any usage and not have right to interfare in ea7plesk
 So, using 7ea to install ea7plesk or use in any misuse works, it prior to responsibility of user and hoster
 so , Be carefull to use any feature .
 
-7ea is in production state
-*ea7plesk provide by host script 
-*ea7plesk is thirdparty license script
+7ea is in production state.
+*ea7plesk provide by host script and it is thirdparty license script
 7ea is opensource serving and handling, platfrom so any one can inbuilt their script in it 
 Thanks for using 7ea
 
