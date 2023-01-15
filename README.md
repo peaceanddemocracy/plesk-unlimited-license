@@ -1,24 +1,18 @@
 # plesk-unlimited-license
 
-[free Collabaration on ea7plesk or 7ea on @7054company (github) or 7054company@gmail.com ]
- 
+plesk-unlimited-license
+[free Collaboration on ea7plesk or 7ea on @7054company (GitHub) or 7054company@gmail.com ]
 ♥ 100% verfied by 7ea ! to run ea7plesk is safe..
+♥ Made by developers for developers and hackers
 
-♥ Made by developers for developers and hacker
- 
 7ea is not resopnsible for any misuse through 7ea using any thirdparty feature ( ea7plesk) .
-
-Fully licensed with unlimited power [ vps] use all feature unlocked.
-
-Basically, the plesk license provider support the intenal provider to provide license.
-7ea worked as a serving platfrom it is not responsible for any usage and not have right to interfare in ea7plesk
-So, using 7ea to install ea7plesk or use in any misuse works, it prior to responsibility of user and hoster
-so , Be carefull to use any feature .
-
-7ea is in production state.
-*ea7plesk provide by host script and it is thirdparty license script
-7ea is opensource serving and handling, platfrom so any one can inbuilt their script in it 
+Fully licensed with unlimited power [ vps] use all features unlocked.
+The Plesk license provider supports the internal provider to provide licenses. 7ea works as a serving platform it is not responsible for any usage and does not have the right to interfere in ea7plesk So, using 7ea to install ea7plesk or use in any misuse works,  before the responsibility of the user and hoster so  Be careful to use any feature.
+7ea is in a production state.
+ *ea7plesk provide by host script and it is a third-party license script 7ea is an opensource serving and handling, platform so anyone can inbuild their script in it 
 Thanks for using 7ea
+
+
 
 ## Installation 7ea
 ``` sh
