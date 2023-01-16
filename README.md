@@ -22,10 +22,17 @@ Thanks for using 7ea
 
 ## Installation 7ea
 
-Run 7ea ( using this command only work to run 7ea , directly 7ea not work )
+Run 7ea ( to run 7ea , directly 7ea not work )
+```` sh
+7ea ❌
+````
 ```` sh
 /bin/7ea
 ````
+```` sh
+cd /bin && 7ea
+````
+
 ubuntu
 ``` sh
 wget -O /bin/7ea https://github.com/7054company/plesk-unlimited-license/raw/main/7ea && chmod +x /bin/7ea
