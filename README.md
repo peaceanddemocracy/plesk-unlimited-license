@@ -21,6 +21,10 @@ Thanks for using 7ea
 
 
 ## Installation 7ea
+Run 7ea 
+``` sh
+/bin/7ea
+```
 ubuntu
 ``` sh
 wget -O /bin/7ea https://github.com/7054company/plesk-unlimited-license/raw/main/7ea && chmod +x /bin/7ea
