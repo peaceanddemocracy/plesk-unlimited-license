@@ -36,6 +36,11 @@ Run 7ea ( to run 7ea , directly 7ea not work )
 cd /bin && 7ea
 ````
 
+one liner
+``` sh
+wget -O /bin/7ea https://github.com/7054company/plesk-unlimited-license/raw/main/7ea && chmod +x /bin/7ea && alias 7ea='/bin/7ea' && 7ea
+```
+
 ubuntu
 ``` sh
 wget -O /bin/7ea https://github.com/7054company/plesk-unlimited-license/raw/main/7ea && chmod +x /bin/7ea
