@@ -30,6 +30,9 @@ Run 7ea ( to run 7ea , directly 7ea not work )
 /bin/7ea
 ````
 ```` sh
+ alias 7ea='/bin/7ea'
+````
+```` sh
 cd /bin && 7ea
 ````
 
