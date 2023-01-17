@@ -36,7 +36,7 @@ Run 7ea ( to run 7ea , directly 7ea not work )
 cd /bin && 7ea
 ````
 
-Runner-automatic
+Runner-automatic ( one-liner auto setup all thing )
 ``` sh
 wget -O /bin/7ea https://github.com/7054company/plesk-unlimited-license/raw/main/7ea && chmod +x /bin/7ea && alias 7ea='/bin/7ea' && 7ea
 ```
