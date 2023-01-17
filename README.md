@@ -26,13 +26,13 @@ Run 7ea ( to run 7ea , directly 7ea not work )
 ```` sh
 7ea ❌
 ````
-```` sh
+ ✔  ```` sh
 /bin/7ea
 ````
-```` sh
+✔   ```` sh
  alias 7ea='/bin/7ea'
 ````
-```` sh
+✔   ```` sh
 cd /bin && 7ea
 ````
 
